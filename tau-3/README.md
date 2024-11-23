@@ -6,3 +6,4 @@ Zrzuty ekranu z działania gry
 
 Zrzut ekranu z działania Github Actions
 
+![image](https://github.com/user-attachments/assets/e475ce5f-9600-4664-bd73-d6c18fe176c3)
